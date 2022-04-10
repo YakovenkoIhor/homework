@@ -1,0 +1,25 @@
+#text_2{
+    color:black;
+    font-weight: 200;
+    font-size: 70px;
+    text-indent: 50px;
+    font-family: 'Poppins', sans-serif;
+    }
+    #text_2::first-letter{
+    color: yellow;
+    background: red;
+    border-radius: 40% 0 40% 0;
+    }
+
+.text_3{  
+    color:red;
+    font-weight: 900;
+    font-size: 100px;
+    text-indent: 90px;
+    font-family: 'Spartan', sans-serif;
+    }
+    .text_3::first-letter{
+    color: blue;
+    background: orange;
+    border-radius: 40% 0 40% 0;
+    }
